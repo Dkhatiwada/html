@@ -1,0 +1,16 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -9,8 +9,10 @@
+ </head>
+ <body>
+     <div class="one-thing">Hello There</div>
+     <section>
+-        
++        <div>
++            <h1>Hello</h1>
++        </div>
+     </section>
+ </body>
+ </html>
+\ No newline at end of file
